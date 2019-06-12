@@ -16,3 +16,7 @@
 > dependências Baixadas até o momento. lembrese de estar na raiz da aplicação.
   Se duplicar os registros utilize o "-D" para implementar nos arquivos já contidos. Acho que não averá a necessidade.
   
+### Para utilização e controle de API utiliza-se
+
+> Insomnia
+> "Parecido ao postMan, porém mais leve e com algumas coisas diferentes"
